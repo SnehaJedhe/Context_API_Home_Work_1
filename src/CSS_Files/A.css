@@ -1,0 +1,33 @@
+#A{
+    border: 2px solid rgb(41, 39, 39);
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 2rem;
+    color: rgb(24, 18, 18);
+    background-color: wheat;
+    /* border-radius: 2rem; */
+    /* box-shadow: 2px 2px 7px rgb(33, 30, 30); */
+
+}
+
+input{
+    width:20rem;
+   height: 2rem;
+   padding: 1rem;
+   font-size: 1rem;
+}
+
+button{
+    margin-left: 1rem;
+    width: 8rem;
+    height: 2rem;
+    font-size: 1rem;
+}
+
+p{
+    font-size: 3rem;
+    color: brown;
+}

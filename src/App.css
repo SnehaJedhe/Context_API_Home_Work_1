@@ -1,0 +1,13 @@
+.App {
+  border: 2px solid blue;
+  width: 100vw;
+  height: 90vh;
+  padding:3rem;
+  background-color: black;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around; */
+
+}
+
